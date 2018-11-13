@@ -1,0 +1,7 @@
+# too many implementations of PCA online 
+
+# some library sources 
+- scipy hierarchical clustering 
+  - agglomerative or hierarchical
+  - visualising dendrograms
+- sci-kit learn clustering 
