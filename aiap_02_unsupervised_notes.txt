@@ -1,0 +1,22 @@
+
+Readable code 
+- naming functions and variables 
+- indentation PEP 8  
+
+Documentation 
+README 
+
+Codebase 
+Notebook for iteration 
+Notebook for presentation 
+
+Discussion around iterations -> making analysis presentable 
+
+
+Within themselves - check code readability with peers on their own (peer code review) 
+
+Case studies 
+PCA + clustering: customer segmentation - anomalies? (GMM low prob of membership or hierarchical clustering (far branch means low membership) 
+Association rules on individual segments 
+Supervised customer value prediction 
+Along the way touch on clean code and reproducibility 
